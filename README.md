@@ -1,3 +1,6 @@
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c9dc2057-1c6b-43ed-8eb3-dac5e4c731e4" />
+
+
 # Hi, I'm N3k0sint 👋
 ### 🛡️ Cybersecurity Student | OSINT Researcher | Digital Forensics Enthusiast
 
