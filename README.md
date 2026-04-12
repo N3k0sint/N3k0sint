@@ -11,7 +11,7 @@ I am a Second Year Computer Systems Security student documenting my journey into
   <img src="https://img.shields.io/badge/Status-Active%20in%20CTFs-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Tools%20Builder-Purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Offensive%20Osint-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Diffensive%20CTI-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Deffensive%20CTI-blue?style=flat-square" />
 </p>
 
 #### 🚀 What I'm Up To
