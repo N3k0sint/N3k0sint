@@ -19,3 +19,10 @@ I am a 1st-year Computer Systems Security student documenting my journey into Cy
 | **[CaesarCipherPro](https://github.com/N3k0sint/Caesar-Cipher-Pro-Java-)** | Secure text encryption/decryption tool with a dark-mode GUI. | Java, Swing |
 | **[ForensicVault](https://github.com/N3k0sint/ForensicVault)** | Your offline, real-time cryptography & forensics analysis suite | Python |
 | **[M3taHunterz-Beta](https://github.com/N3k0sint/M3taHunterz-Beta)** | Advanced OSINT & Anti-Forensics Utility | Python |
+
+## 📊 Repository Stats
+![N3k0sint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3k0sint&show_icons=true&theme=radical&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N3k0sint&layout=compact&theme=radical)
+
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FN3k0sint&labelColor=%232c3e50&countColor=%23f39c12)
