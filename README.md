@@ -12,8 +12,9 @@ I am a Second Year Computer Systems Security student documenting my journey into
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/CompTIA-SECURITY%2B-FFD100?style=for-the-badge&logo=comptia&logoColor=white&labelColor=BC1F2E&color=FFD100&logoColor=white&labelColor=BC1F2E&fontColor=000000" />
+  </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active%20in%20CTFs-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Tools%20Builder-Purple?style=flat-square" />
@@ -53,10 +54,8 @@ I am a Second Year Computer Systems Security student documenting my journey into
 
 ### 🐈 Daily Dose of Neko
 <p align="center">
-  <!-- Dynamic Cat Image with Cache Buster -->
-  <img src="https://cataas.com/cat/says/N3k0sint%20is%20online?t=12345" width="370" height="350" alt="Random Cat" />
+  <img src="https://cataas.com/cat/says/N3k0sint%20is%20online?width=400&height=250&unique=true" />
   <br>
-  <i>Refresh to see a new Neko!</i>
 </p>
 
 ---
