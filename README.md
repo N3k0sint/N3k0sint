@@ -2,11 +2,18 @@
   <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/c9dc2057-1c6b-43ed-8eb3-dac5e4c731e4" />
 </p> <br> 
 
+
 # Hi, I'm N3k0sint 👋
-### 🛡️ Cybersecurity Student | OSINT Researcher | Cyber Threat Intelligence and Digital Forensics Enthusiast
+### 🛡️ Cybersecurity Student | OSINT Analyst | Cyber Threat Intelligence and Digital Forensics Enthusiast
 
 I am a Second Year Computer Systems Security student documenting my journey into Cyber Defense, Osint, CTI and Digital Forensics.
 
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali-262626?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%2B-FF6600?style=for-the-badge&logo=comptia&logoColor=white" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Active%20in%20CTFs-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Tools%20Builder-Purple?style=flat-square" />
@@ -33,15 +40,25 @@ I am a Second Year Computer Systems Security student documenting my journey into
 | **S.A.F.E.** | Steganography Analysis & Forensics Engine for CTF challenges. | Python, OSINT |
 | **PDFPals** | A privacy-focused, local-first utility for PDF management. | Python |
 
-## 📊 Repository Stats
 
+---
+
+### 📊 My Stats (Cat Edition)
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=N3k0sint&cc=222&tc=ff0055&ic=ffffff&border=ffffff" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3k0sint&theme=radical" />
 </p>
+
+---
+
+### 🐈 Daily Dose of Neko
+<p align="center">
+  <img src="https://cataas.com/cat/says/N3k0sint%20is%20online?width=400&height=250&fontColor=white" alt="Random Cat" />
+  <br>
+  <i>Refresh the page to see a new cat!</i>
+</p>
+
+---
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FN3k0sint&labelColor=%232c3e50&countColor=%23f39c12" />
