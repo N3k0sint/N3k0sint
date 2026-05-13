@@ -43,7 +43,7 @@ I am a Second Year Computer Systems Security student documenting my journey into
 
 ---
 
-### 📊 My Stats (Cat Edition)
+### 📊 My Stats
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=N3k0sint&cc=222&tc=ff0055&ic=ffffff&border=ffffff" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3k0sint&theme=radical" />
@@ -53,9 +53,10 @@ I am a Second Year Computer Systems Security student documenting my journey into
 
 ### 🐈 Daily Dose of Neko
 <p align="center">
-  <img src="https://cataas.com/cat/says/N3k0sint%20is%20online?width=400&height=250&fontColor=white" alt="Random Cat" />
+  <!-- Dynamic Cat Image with Cache Buster -->
+  <img src="https://cataas.com/cat/says/N3k0sint%20is%20online?t=12345" width="370" height="350" alt="Random Cat" />
   <br>
-  <i>Refresh the page to see a new cat!</i>
+  <i>Refresh to see a new Neko!</i>
 </p>
 
 ---
