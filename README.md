@@ -50,6 +50,15 @@ I am a Second Year Computer Systems Security student documenting my journey into
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=N3k0sint&theme=radical" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
+  <img alt="github-snake"
+       src="https://raw.githubusercontent.com/Dietgucc1/Dietgucc1/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### 🐈 Daily Dose of Neko
